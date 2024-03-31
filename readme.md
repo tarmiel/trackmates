@@ -1,6 +1,8 @@
 # TrackMates
 
-Track your progress for all your courses
+TrackMates is a convenient app designed to help you keep tabs on your courses, monitor your progress, and easily share your achievements with friends. Whether you're mastering a skill, or completing a certification, TrackMates ensures you stay organized and motivated every step of the way
+
+![gif](https://study.binary-studio.com/ProjectGifs/track-mates.gif)
 
 ## 1. Introduction
 
